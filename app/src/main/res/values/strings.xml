@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">mattew</string>
+    <string name="reg_reg">Register</string>
+    <string name="reg_btn">Register</string>
+    <string name="reg_username">Username</string>
+    <string name="reg_email">Email</string>
+    <string name="reg_password">Password</string>
+    <string name="reg_confirm_password">Confirm Password</string>
+    <string name="reg_already_have_an_account">Already have an account?</string>
+    <string name="log_login">Login</string>
+    <string name="log_enter_email">Enter Email</string>
+    <string name="log_enter_password">Enter Password</string>
+    <string name="log_forget_password">Forget Password</string>
+    <string name="log_dont_have_an_account">Dont have an Account?</string>
+    <string name="log_sign_up">Sign up!</string>
+    <string name="log_google">Google</string>
+    <string name="log_facebook">Facebook</string>
+    <string name="main_matthew">Matthew</string>
+    <string name="main_gait">gait_btn</string>
+    <string name="main_btn1">gaitAsymetry</string>
+    <string name="main_btn2">game</string>
+    <string name="main_btn3">how</string>
+    <string name="main_txt1">Gait Analysis</string>
+    <string name="main_txt2">What is Gait Asymetry?</string>
+    <string name="main_txt3">Game</string>
+    <string name="main_txt4">How to use?</string>
+    <string name="gait_back">Back</string>
+    <string name="Asymetry_back">Back</string>
+    <string name="game_back">Back</string>
+    <string name="use_start">Start</string>
+    <string name="use_follow">Follow the video to wear the product</string>
+    <string name="use_ready">Ready to test? Press the start button to get started!</string>
+    <string name="use_btnstart">Start</string>
+    <string name="gait_gait">Gait</string>
+</resources>
