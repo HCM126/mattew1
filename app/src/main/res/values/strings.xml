@@ -32,4 +32,7 @@
     <string name="use_ready">Ready to test? Press the start button to get started!</string>
     <string name="use_btnstart">Start</string>
     <string name="gait_gait">Gait</string>
+    <string name="gait_start">start</string>
+    <string name="gait_bluetooth">bluetooth</string>
+    <string name="Gait_show">Pair_device</string>
 </resources>
